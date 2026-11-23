@@ -1,0 +1,24 @@
+{
+  "name": "practica1-u3-gestion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saul12gar/practica1-u3-gestion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Saul12gar/practica1-u3-gestion/issues"
+  },
+  "homepage": "https://github.com/Saul12gar/practica1-u3-gestion#readme",
+  "devDependencies": {
+    "wrangler": "^4.167.0"
+  }
+}
