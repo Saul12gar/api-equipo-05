@@ -1,6 +1,6 @@
   {
     "$schema": "./node_modules/wrangler/config-schema.json",
-    "name": "api-equipo-01",
+    "name": "api-equipo-05",
     "main": "src/index.js",
     "compatibility_date": "2026-11-01",
     "observability": { "enabled": true },
